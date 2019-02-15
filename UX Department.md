@@ -1,3 +1,6 @@
+
+<img src="https://cdn.dribbble.com/users/175166/screenshots/2880941/shapesloop.gif" alt="Shapes" height="150px">
+
 # UX Department
 We create intuitive, delightful and beauitufl software for a myriad of clients. We build products for for both our clients, and also their end users.
 
