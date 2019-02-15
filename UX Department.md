@@ -82,38 +82,18 @@ UX is the pilot driving the product vision early in the process. We inform the v
 
 
 ## Holistic UX
-Though we structure our work around individual stages of the product (Plan, Manage, Create, etc.) we should not separate look, feel and process from what the user is trying to accomplish. We must maintain a focus on what the user needs to get done and how to deliver that in the most effective manner possible. This includes how users flow from one stage of the product to another. Maintaining a holistic overview of the path a user may take allows us to see the possible twists and turns along the way. With this knowledge, we can optimize the user experience.
+The focus is always on the end experience for the customer. We must maintain a focus on what the user needs to get done and how to deliver that in the most effective manner possible. This includes how users flow from one stage of the product to another. Maintaining a holistic overview of the path a user may take allows us to see the possible twists and turns along the way. With this knowledge, we can optimize the user experience.
 
-It is the responsibiliy of each UX Designer to understand how users may flow in and out of their area of focus.
-
-
-## Stable Counterparts
-Every UX Designer and UX Researcher is aligned with a PM. The UXer is responsible for the same features their PM oversees. UXers work alongside PM and engineering at each stage of the process. Planning, discovery, implementation, and further iteration. The area a UXer is responsible for is part of their title, e.g. "UX Designer, Plan." You can see which area of the product each UX Designer is aligned with in the team org chart.
-
-UXers may also serve as a "backup" designer for other areas of the product. This area will be listed on the team page under their title as an expertise, e.g. "Plan expert." UX backups should be just that, backups. They are there to conduct UX reviews on MRs when the UX Designer for that area is out. The UX lead for a given area should coordinate with the PM and their backup during scheduling for any work that is critical. Critical UX work is defined as any work that addresses an outage, a broken feature with no workaround, or the current workaround is unacceptable.
+## Design Consistency
+Though we structure our work around individual projects we always create consistency, across each product. We do this by using the Kunai Library components, or developing new components for the library that may be specific to your project. This is not to say that everything is templatized, or cookie-cutter. We've built a very modular and adaptable library so that we can easily use components like form-fields, buttons, and type-styles in any project and easily edit them.
 
 
 #### Everyone can contribute
-The UX department is not solely responsible for the user experience at Kunai. Everyone is encouraged to contribute their thoughts and ideas on how we can make GitLab better. Open an issue and tell us about your idea. You can use just words or include images. These images can take a variety of forms, here are just a few examples:
+The UX department is not solely responsible for the user experience at Kunai. Everyone is encouraged to contribute their thoughts and ideas on how we can make our projects better, and our internal processes more efficient. Open an issue and tell us about your idea. You can use just words or include images. These images can take a variety of forms, here are just a few examples:
 
-- Drawings or sketches to convey your idea.
-- Wireframes made using a software of your choosing (Balsamiq, Sketch, etc.).
+- Drawings, Wireframes or sketches to convey your idea.
 - Low-fidelity mockups made by manipulating the DOM in the browser.
-- High-fidelity mockups made using the Kunai Design Pattern Library.
-
-If you are creating high-fidelity designs, please make sure to let others know that this is a proposal and needs UX review. You can ping anyone on the UX team for assistance.
-
-
-## Iteration
-Here at Kunai, iteration means making the smallest thing possible and getting it out as quickly as possible. Working like this allows us to reduce cycle time and get feedback from users faster so we can continue to improve quickly and efficiently.
-
-Iteration isn't just one of GitLab’s six founding values, C.R.E.D.I.T, it is one of the foundational concepts in design thinking and user experience. Planning too far ahead without real-world feedback can cause you to build something that doesn't meet users needs.
-
-Iteration is especially vital in an open-source community. Keeping changes small and iterative makes it easy for anyone to contribute. Here are some examples of how we are embracing the power of iteration and using it to build GitLab:
-
-- We aggressively break issues down into the smallest scope possible. If an effort is too big to be completed in one milestone, then it is too big. Epics allow us to maintain a holistic view of an area while breaking the work down into an MVC.
-- We keep a list of improvement issues that are actively seeking contributions from the community. They are small in scope, allowing the community to contribute designs or code to the issues. You can learn more about in the Community Contributions section of this handbook. You can also view the list of issues that need UX work.
-- You may notice that our Design System has a lot of "to-do" items. Rather than try to tackle everything at once, we are gradually populating our component library and incrementally rolling those components out to production.
+- Non-Designers who want a more high-fidelity mock of the idea, just connect with them over Slack, we're always more than happy to help create these.
 
 
 ## UX Resources
@@ -127,29 +107,23 @@ Read about [UX Designer workflows]()
 Read about [UX Researcher workflows]()
 
 
-#### Kunai design project
+#### Kunai Design Tools
 
-The GitLab design project is primarily used by the UX Design team to host design files and hand them off for implementation. For details, please visit the README for the project.
+Here is a list of tools we use to get our design work done at Kunai. [Click here]() for more information on how we use them.
+
+- Abstract (Version Control)
+- Sketch (Mocks and Wires)
+- Google Drive (Storage)
+- Zeplin (Asset Delivery)
+- Slack (Communication)
+- Adobe Creative Suite (as needed)
 
 
 #### Kunai Design System
 
-The GitLab Design System was developed to increase iteration speed and bring consistency to the UI through the creation of reusable and robust components. This system helps keep the application DRY and allows designers to focus their efforts on solving user needs, rather than recreating elements and reinventing solutions. It also empowers Product, engineering, and the community to use these defined patterns when proposing solutions. The Design System can be viewed at design.gitlab.com. It is currently a work in progress.
+We developed the Kunai Design Library to speed up visual design time by creating a giant library of hyper-modular elements such as buttons, form-fields, avatars, type-styles, colors, and so much more.
 
-The project and repository for design.gitlab.com can be found here.
+This helps us to increase iteration speed and bring consistency to the UI through the creation of reusable and robust components. This system allows designers to focus their efforts on solving user needs, rather than recreating elements and reinventing solutions. It also empowers Product, engineering, and the community to use these defined patterns when proposing solutions. The Design System can be [downloaded here](). It is currently a work in progress.
 
-
-#### Kunai SVGs
-
-Our GitLab SVGs repository manages all SVG assets by creating an SVG sprite out of icons and optimizing SVG based illustrations.
-
-All of our SVGs can be previewed using this URL
-
-
-#### UX research project
-The UX research project contains all research undertaken by GitLab's UX researchers. This project is used for the organization and tracking of UX research issues only.
-
-
-#### UX design archive
-The UX design archive is a collection of key design issues broken down by specific areas of GitLab. It is not a comprehensive list. It is intended to shed insight into key UX design decisions.
+# Happy Designing :art:
 
