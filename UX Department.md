@@ -1,45 +1,51 @@
 # UX Department
-We make a software product that is easy to use and enables everyone to contribute. We are building GitLab for a diverse, global community. To achieve this vision we need to understand the communities' behaviors, needs, and motivations.
+We create intuitive, delightful and beauitufl software for a myriad of clients. We build products for for both our clients, and also their end users.
 
-The UX Department works cross-functionally internally and with community contributors to meet these goals. We believe in iterative improvements and value aggressive change. We may get some things wrong but will quickly strive to make them right. We have a long way to go, which is why we are taking significant steps.
+The UX Department works cross-functionally internally and with the Development, Product, and Biz Dev departments to meet these goals. We are the experts in our field, clients hire us to build what they need and we use our unique skills and perspectives to make that product the absolute best.
 
 ## UX Vision
 
-#### Principles
-Kunai should be productive, minimal, and human. We want to design the most complete, most uncomplicated but adaptable DevOps process that allows people to focus on being the best at their job.
+### Principles
+Kunai's focus is on financial technology companies these products can sometimes seem cold, and transactional. It is our job to make these products personal, emotional, and human, while maintaining a high-level of design and visualization. 
 
 
-#### Productive
-Yielding favorable or useful results; constructive: a productive suggestion.
+#### Everyone is a Designer
+_Self-aware. Emotional, yet rational. Understandable and helpful._
+
+Design is another word for problem-solving. We all have different perspectives whether it's understanding psychology, user behavior, product architecture, business methods, client expectations, etc. Therefore everyone at Kunai has valueable opinions on possible solutions, and as designers, we are the leaders to help them express those. 
 
 **User Experience is part of everything we do.**
 
-The default assumption is that user experience is part of every issue.
+User experience is in every stage of the product from SOW to final development.
 
-**Everyone at the company understands the role of UX and everyone contributes to the user experience.**
+**Everyone at Kunai has a say in the experience.**
 
-- Encourage Product Managers, Engineers, and the Community to contribute wireframes, low-fidelity designs, and prototypes. Everyone is a designer.
-- Designers involve Product Managers, Engineers, and the Community in problem discovery and definition.
-- Designers, Product Managers, and Engineers are involved in UX research, backing solutions with data.
+- We encourage everyone (Product Managers, Engineers, etc.) to contribute thoughts ideas, and sketches for solutions. Everyone is a designer.
+- Designers involve Product Managers and Engineers in problem discovery and definition.
+- Designers, Product Managers, and Engineers are involved in UX research, and backing solutions with data.
+
 
 **Our solutions make users feel confident and efficient.**
 
 - Use the simplest most boring solution for a problem.
+- Maintain proven best practices.
 - Understand the user's goals and circumstances.
-- Respect the importance of their work, and avoid gimicky details.
+- Respect the importance of their work, and avoid gimicky design.
 - Users receive sufficient feedback and direction to achieve their goals.
 - Design holistic experiences and flows.
 
 
-#### Minimal
-_ Simplicity driving maximum effect. _
+#### Reduce, Reuse, Recycle
+_Simplicity and modulatrity drive maximum efficency._
 
 
-**Design is about iteration, let’s continuously iterate on our processes.**
+**Design is about iteration, we continuously iterate on our processes.**
 
 - Aggressively break down issues into the smallest effort that gets results.
 - The design system will never be finished; it should always be evolving.
-- Whenever possible, start in low-fidelity (wireframes, greyscale, etc.) to make sure we get it right before we go any further.
+- Always, start in low-fidelity (sketches, wireframes, greyscale, etc.) to make sure we get it right before we go any further.
+- Reuse components, buttons, type-styles, layout skeletons, form-fields, etc. to save effort and time for the deeper design thinking.
+
 
 **Minimize distractions and clutter so users can focus.**
 
@@ -52,26 +58,27 @@ _ Simplicity driving maximum effect. _
 #### Human
 _Self-aware. Emotional, yet rational. Understandable and helpful._
 
-**Be Ambitious**
+The biggest, and most difficult part of designing for FinTech is turning a financial product into something that isn't just a transactional peice of software, but an emotional, and personal interaction.
+
+**Ambition**
 
 - Think big, but break it down into small steps.
-- Don’t be afraid to fail. Permission to fail builds a culture of experimentation.
-- Quirkiness is part of our DNA; we should embrace it in the right moments and contexts.
+- Don’t be afraid to ask stupid questions, or propose new ideas.
+- We're a small yet talented company; we should embrace it and push the products we work on to always be great.
 
 
-**Be Helpful**
+**Empathy**
 
 - See the world through other people's eyes, and try to understand their experiences deeply and meaningfully.
 - Don’t overload the user.
-- Don’t change established user flows (if not really necessary).
-- Assist the community in making an impact on our product.
-- Steer the user in the right direction if they end up in a “bad” place (without blaming them), and recognize their efforts and accomplishments!
+- Don’t reinvent the wheel, unless you need to.
+- Assist your teammates, always.
 
 
 ## Workflow
-The UX Department works alongside the community, Product Managers (PMs), Frontend engineers (FE), and Backend engineers (BE). PMs are responsible for kicking-off initiatives, taking action, and setting the direction of the product. PMs don't own the product, they gather feedback and give GitLabbers and the community the space to suggest and create.
+The UX Department is one side of the Triangle Δ. We work alongside Product Managers (PMs), and Engineers (FE / BE). PMs are responsible for kicking-off projects, coordinating timelines, sprints, and deliverable dates. PMs facilitate communication between Kunai and the clients and give the creative team the space to create and develop the product.
 
-UX should assit in driving the product vision early in the process. We inform the vision by conducting research as well as facilitating discussion with community members, customers, PM, FE, and BE. We are elevated, above the transactional workflow, and generative, generating work rather than executing tasks.
+UX is the pilot driving the product vision early in the process. We inform the vision by conducting research as well as facilitating discussion with clients, customers, PM, FE, and BE. We do the entire spectrum of design work from research, to sketching, sitemapping, prototyping, and designing gradients on buttons.
 
 
 ## Holistic UX
