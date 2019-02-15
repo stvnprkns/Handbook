@@ -98,15 +98,6 @@ The UX department is not solely responsible for the user experience at Kunai. Ev
 
 ## UX Resources
 
-#### UX Workflow details
-
-Read about [UX Department workflows.]()
-
-Read about [UX Designer workflows]()
-
-Read about [UX Researcher workflows]()
-
-
 #### Kunai Design Tools
 
 Here is a list of tools we use to get our design work done at Kunai. [Click here]() for more information on how we use them.
