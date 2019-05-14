@@ -1,10 +1,15 @@
 # Design Tool Workflows
 
+
+
+
+
 ## Abstract
 
 ### Naming Structure
 
 **File/Project Name**
+
 ClientName - Project - Variation
 ex. (Visa - Loyalty - Merchant App)
 
@@ -40,6 +45,8 @@ Descriptions of products should be unique and should simply describe the project
 <a href="https://ibb.co/dgWvBQw"><img src="https://i.ibb.co/gVj8yDL/Scenario-2.png" alt="Scenario-2" border="0"></a>
 ###### Using just Abstract
 
+
+
 ## Sketch
 
 ### Naming Structure
@@ -47,6 +54,14 @@ Descriptions of products should be unique and should simply describe the project
 **File/Project Name**
 
 ClientName - Project - Variation
+
+### Symbol Structure
+
+**Atomic Design**
+
+Build all your files based on <a href="http://atomicdesign.bradfrost.com/chapter-2/">Brad Frost's Atomic Design System</a>
+
+<img src="https://user-images.githubusercontent.com/4838076/33235048-d083dca6-d217-11e7-9aea-9a5ef5ae6fe7.png" alt="Brad Frost Atomic Design Map">
 
 **Storage**
 
@@ -60,8 +75,33 @@ If you're using alternative libraries please make sure that they are also availa
 
 - Please, name all of your layers. No 'Rectangle 489'
 - Group all components
-- Make sure that all parts of your components and symbols are layered in order from top-left first to bottom-right last. (This way when we need to make chagnes to symbol copy, it's easy and organized.)
+- Make sure that all parts of your components and symbols are layered in order from top-left first to bottom-right last. (This way when we need to make changes to symbol (copy, colors, icons, etc.) it's easy and organized.)
 - Keep all libraries and symbols updated.
 - All Assets need to be exportable
 
 
+## Zeplin
+
+### Naming Structure
+
+**File/Project Name**
+
+ClientName - Project - Variation
+ex. (EY - Doc Intelligence - DICR)
+
+### Component Export
+
+**How To Guide**
+
+https://blog.zeplin.io/introducing-zeplin-2-0-components-and-a-ton-more-goodies-7c09dacc1f48
+
+**Rules**
+
+1. Make sure all assets in your Source file are exportable
+2. Use distinct naming for each asset and component (ex. camera_ic)
+3. Make sure to export your component symbols and organize them in Zeplin
+4. Share Zeplin project with devs, clients, & PMs
+
+# Under Construction
+
+<img src="https://media3.giphy.com/media/26ybvJNaZZKpPONEc/giphy.gif" alt="Under Construction">
