@@ -10,6 +10,14 @@ You will feel very slow in the beginning, that is perfectly normal. There is a l
 
 If you haven't already, please read the main section of the [UX Handbook](ux/handbook.md) and the [UX Designer section]().
 
+## The Design Club
+
+- Sean Kim
+- Sterling Rose
+- Steve Kob
+- Rachael Greene
+- Stephen Perkins
+
 ## UX Design Buddy
 
 You will be assigned a UX Buddy to help you find your way around. Your buddy will schedule a chat with you during your first week. They will also be assigned to your first few projects alongside you. While you should feel free to ask anyone for help at anytime, your buddy is a dedicated person you can rely on for help and guidance.
